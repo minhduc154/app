@@ -1,0 +1,40 @@
+c:\users\minhd\documents\visual studio 2013\Projects\QL_KTX\QL_KTX\bin\Debug\QL_KTX.exe.config
+c:\users\minhd\documents\visual studio 2013\Projects\QL_KTX\QL_KTX\bin\Debug\QL_KTX.exe
+c:\users\minhd\documents\visual studio 2013\Projects\QL_KTX\QL_KTX\bin\Debug\QL_KTX.pdb
+c:\users\minhd\documents\visual studio 2013\Projects\QL_KTX\QL_KTX\obj\Debug\QL_KTX.Formchinh.resources
+c:\users\minhd\documents\visual studio 2013\Projects\QL_KTX\QL_KTX\obj\Debug\QL_KTX.Formdangnhap.resources
+c:\users\minhd\documents\visual studio 2013\Projects\QL_KTX\QL_KTX\obj\Debug\QL_KTX.Properties.Resources.resources
+c:\users\minhd\documents\visual studio 2013\Projects\QL_KTX\QL_KTX\obj\Debug\QL_KTX.csproj.GenerateResource.Cache
+c:\users\minhd\documents\visual studio 2013\Projects\QL_KTX\QL_KTX\obj\Debug\QL_KTX.exe
+c:\users\minhd\documents\visual studio 2013\Projects\QL_KTX\QL_KTX\obj\Debug\QL_KTX.pdb
+c:\users\minhd\documents\visual studio 2013\Projects\QL_KTX\QL_KTX\obj\Debug\QL_KTX.csprojResolveAssemblyReference.cache
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\QL_KTX\QL_KTX\obj\Debug\QL_KTX.FormquanlyUser.resources
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\QL_KTX\QL_KTX\obj\Debug\QL_KTX.Formthongtin.resources
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\QL_KTX\QL_KTX\obj\Debug\QL_KTX.Formquanlysv.resources
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\QL_KTX\QL_KTX\obj\Debug\QL_KTX.FormquanlyPhong.resources
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\QL_KTX\QL_KTX\obj\Debug\QL_KTX.FormquanlyBienban.resources
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\QL_KTX\QL_KTX\obj\Debug\QL_KTX.FormbaocaoBienban.resources
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\QL_KTX\QL_KTX\obj\Debug\QL_KTX.FormquanlyHoadon.resources
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\bin\Debug\QL_KTX.exe.config
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\obj\Debug\QL_KTX.exe
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\obj\Debug\QL_KTX.pdb
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\bin\Debug\QL_KTX.exe
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\bin\Debug\QL_KTX.pdb
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\obj\Debug\QL_KTX.csprojResolveAssemblyReference.cache
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\obj\Debug\QL_KTX.FormbaocaoBienban.resources
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\obj\Debug\QL_KTX.Formchinh.resources
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\obj\Debug\QL_KTX.Formdangnhap.resources
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\obj\Debug\QL_KTX.FormquanlyBienban.resources
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\obj\Debug\QL_KTX.FormquanlyHoadon.resources
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\obj\Debug\QL_KTX.FormquanlyPhong.resources
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\obj\Debug\QL_KTX.FormquanlySv.resources
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\obj\Debug\QL_KTX.FormquanlyUser.resources
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\obj\Debug\QL_KTX.Formthongtin.resources
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\obj\Debug\QL_KTX.Properties.Resources.resources
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\obj\Debug\QL_KTX.csproj.GenerateResource.Cache
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\obj\Debug\QL_KTX.FormbaocaoHoadon.resources
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\obj\Debug\QL_KTX.FormbaocaoSv.resources
+C:\Users\minhd\Documents\Visual Studio 2013\Projects\quanlyktx\QL_KTX\obj\Debug\QL_KTX.FormquanlyNhanvien.resources
+D:\2_2\C #\Projects\quanlyktx\QL_KTX\bin\Debug\QL_KTX.exe.config
+D:\2_2\C #\Projects\quanlyktx\QL_KTX\obj\Debug\QL_KTX.exe
+D:\2_2\C #\Projects\quanlyktx\QL_KTX\obj\Debug\QL_KTX.pdb
